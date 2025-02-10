@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm malleswari boggavarapu</h1>
+<h1 align="center">Hi 👋, Malleswari Boggavarapu</h1>
 <h3 align="center">STUDENT| TECH ENTHUSIAST |SPECIALIZING IN ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING</h3>
 
 - 🔭 I’m currently **A student at Geethanjali institute of science and technology,nellore**
